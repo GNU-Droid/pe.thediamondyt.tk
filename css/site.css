@@ -6,3 +6,9 @@
   padding: 20
 }
 
+.code-block {
+  white-space: pre; 
+  overflow: auto;
+  word-wrap: normal;
+}
+

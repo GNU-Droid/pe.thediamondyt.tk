@@ -32,6 +32,7 @@ In the future i will add individual pages for each endpoint.
 
  
 ##### And here is one of the GET requests that i captured, just for reference
+{:.code-block}
 ```
 GET /worlds HTTP/1.1
 Host: pocket.realms.minecraft.net:443
