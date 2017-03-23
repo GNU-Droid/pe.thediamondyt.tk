@@ -1,6 +1,6 @@
 ---
 title: MCPE Wiki
-permalink: /wiki
+permalink: /
 ---
 ## Minecraft Pocket Edition Wiki
 Welcome to my wiki! Here i will add all the techy things i find out about MCPE.  
