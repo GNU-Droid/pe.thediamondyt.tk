@@ -5,6 +5,8 @@ permalink: /wiki/protocol/1.0.5/
 ## MCPE 1.0.5 Protocol  
   
    
+{:.table}
+{:.table-bordered}
 |Info|Value|
 |----|-----|
 |Protocol Number|105|
