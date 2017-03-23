@@ -4,7 +4,14 @@ permalink: /wiki/protocol/1.0.5/
 ---
 ## MCPE 1.0.5 Protocol  
   
+   
+|Info|Value|
+|----|-----|
+|Protocol Number|105|
+|Version Number|1.0.5.0|
+|Version Name|v1.0.5.0 beta|
   
+   
 ### Packets
 //TODO: Finish  
 
