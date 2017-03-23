@@ -7,6 +7,8 @@ Mojang have a private API for interacting with their Realms servers. Here i will
 ### Base info
 Some info used in every GET request on this page.
 
+{:.table}
+{:.table-bordered}
 |Parameter|Value|
 |---------|-----|
 |Host|pocket.realms.minecraft.net:443|
@@ -20,6 +22,8 @@ Some info used in every GET request on this page.
 ### Endpoints
 In the future i will add individual pages for each endpoint.
   
+{:.table}
+{:.table-bordered}
 |Path|Description|
 |----|-----------|
 |/worlds|**TODO**|
