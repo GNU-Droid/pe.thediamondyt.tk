@@ -8,6 +8,8 @@ permalink: /wiki/protocol/1.0.5/
 ### Packets
 //TODO: Finish  
 
+{:.table}
+{:.table-bordered}
 |Name|ID|
 |Login|0x01|
 |Play Status|0x02|
