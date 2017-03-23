@@ -1,6 +1,6 @@
 ---
 title: MCPE Protocol
-permalink: /wiki/protocol
+permalink: /wiki/protocol/
 ---
 ## MCPE Protocol
 Minecraft Pocket Edition uses UDP for networking, unlike PC Minecraft which uses TCP.  
@@ -14,7 +14,7 @@ Click the MCPE version to get full information.
 {:.table-bordered}
 |Version|Protocol Number|
 |-------|---------------|
-|[1.0.5](1.0.5/Info.md)|105|
+|[1.0.5](1.0.5/)|105|
 
 ### RakNet Packets
 RakNet packets will **never** change.  
