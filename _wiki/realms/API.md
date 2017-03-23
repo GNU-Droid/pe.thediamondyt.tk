@@ -5,24 +5,24 @@ title: Realms API
 Mojang have a private API for interacting with their Realms servers. Here i will try to work out what all the fields mean so people can make their own API clients.
 
 ### Base info  
-|  Parameter |   Value    |    
-| : ------   | : -------  |  
-| Host | pocket.realms.minecraft.net:443 |  
-| Authorization | **TODO** |  
-| User agent | MCPE/Android |  
-| Client version | *(MCPE Version, e.g. 1.0.4)* |  
-| Cache control | No cache |  
-| Charset | UTF-8 |  
+|Parameter|Value|
+|---------|-----|
+|Host|pocket.realms.minecraft.net:443| 
+|Authorization| **TODO** | 
+|User agent|MCPE/Android|  
+|Client version|*(MCPE Version, e.g. 1.0.4)*|  
+|Cache control|No cache|  
+|Charset|UTF-8|  
 
 
 ### Endpoints
 In the future i will add individual pages for each endpoint.
   
-| Path          |     Description  |   
-| : ----------- | : --------------- |  
-|  /worlds       |     **TODO**       |   
-| /activities/live/players | **TODO** |  
-| /mco/client/compatible | **TODO** |  
+|Path|Description|
+|----|-----------|  
+|/worlds| **TODO** |   
+|/activities/live/players| **TODO** |  
+|/mco/client/compatible| **TODO** |  
 
  
 ##### And here is one of the GET requests that i captured, just for reference
