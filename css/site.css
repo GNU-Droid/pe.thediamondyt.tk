@@ -3,7 +3,8 @@
  * Copyright and stuff blah blah blah idk
  */
 .page {
-  padding: 20
+  padding-left: 10px
+  padding-right: 10px
 }
 
 .code-block {
