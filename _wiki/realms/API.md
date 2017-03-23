@@ -18,7 +18,7 @@ Mojang have a private API for interacting with their Realms servers. Here i will
 ### Endpoints
 In the future i will add individual pages for each endpoint.
   
-|Path|Description|   
+|Path|Description|
 |----|-----------|  
 |/worlds| **TODO** |   
 |/activities/live/players| **TODO** |  
