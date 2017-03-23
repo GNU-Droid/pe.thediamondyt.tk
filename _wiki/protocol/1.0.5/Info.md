@@ -7,8 +7,6 @@ permalink: /wiki/protocol/1.0.5/
    
 {:.table}
 {:.table-bordered}
-|Info|Value|
-|----|-----|
 |Protocol Number|105|
 |Version Number|1.0.5.0|
 |Version Name|v1.0.5.0 beta|
@@ -20,6 +18,7 @@ permalink: /wiki/protocol/1.0.5/
 {:.table}
 {:.table-bordered}
 |Name|ID|
+|----|--|
 |Login|0x01|
 |Play Status|0x02|
 |Server to Client Handshake|0x03|
