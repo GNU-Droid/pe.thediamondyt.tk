@@ -7,13 +7,12 @@ Mojang have a private API for interacting with their Realms servers. Here i will
 Unfortunatly i cant seem to get this to work and curl return `No reply from server"`.
 
 ### Base info
-Some info used in every GET request on this page.
+Some info used in every GET request on this page **unless specified otherwise**.
 
 {:.table}
 {:.table-bordered}
 |Parameter|Value|
 |---------|-----|
-|Host|pocket.realms.minecraft.net:443|
 |Authorization|**TODO**|
 |User-Agent|MCPE/Android|
 |Client-Version|e.g. 1.0.4|
@@ -21,16 +20,31 @@ Some info used in every GET request on this page.
 |Charset|utf-8|
 
 ### Endpoints
-In the future i will add individual pages for each endpoint.
+In the future i will add individual pages for each endpoint.  
+*(id) is the world id*
   
+`Host: pocket.realms.minecraft.net:443`  
+   
 {:.table}
 {:.table-bordered}
 |Path|Description|
 |----|-----------|
 |/worlds|**TODO**|
+|/worlds/*(id)*|**TODO**|
+|/archive/download/world/*(id)*/1/latest|**TODO**|
+|/trial/new|**TODO**|
 |/activities/live/players|**TODO**|
 |/mco/client/compatible|**TODO**|
+|/invites/pending|**TODO**|
+|/invites/count/pending|**TODO**|
+  
+`Host: payments.realms.minecraft.net:443`  
 
+{:.table}
+{:.table-bordered}
+|Path|Description|
+|----|-----------|
+|/status|**TODO**|
  
 ##### And here is one of the GET requests that i captured, just for reference
 {:.code-block}
