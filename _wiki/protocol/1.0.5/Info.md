@@ -3,7 +3,7 @@ title: MCPE 1.0.5 Protocol
 permalink: /wiki/protocol/1.0.5/
 ---
 ## MCPE 1.0.5 Protocol  
-  
+Tip: Use CTRL+F or the yours browsers such feature to easily find the packet you want.  
    
 {:.table}
 {:.table-bordered}
@@ -13,7 +13,6 @@ permalink: /wiki/protocol/1.0.5/
    
    
 ### Packets
-//TODO: Finish  
 
 {:.table}
 {:.table-bordered}
@@ -51,6 +50,32 @@ permalink: /wiki/protocol/1.0.5/
 |Inventory Action|0x30|
 |Container Open|0x31|
 |Container Close|0x32|
+|Container Set Slot|0x33|
+|Container Set Data|0x34|
+|Container Set Content|0x35|
+|Crafting Data|0x36|
+|Crafting Event|0x37|
+|Adventure Settings|0x38|
+|Block Entity Data|0x39|
+|Player List|0x40|
+|Telementry Event|0x41|
+|Spawn Experience Orb|0x42|
+|Map Item Data|0x43|
+|Map Info Request|0x44|
+|Request Chunk Radius|0x45|
+|Chunk Radius Updated|0x46|
+|Item Frame Drop Item|0x47|
+|Replace Selected Item|0x48|
+|Game Rules Changed|0x49|
+|Command Block Update|0x50|
+|Update Trade|0x51|
+|Resource Pack Data Info|0x52|
+|Resource Pack Chunk Data|0x53|
+|Resource Pack Chunk Request|0x54|
+|Transfer|0x55|
+|Play Sound|0x56|
+|Stop Sound|0x57|
+|Set Title|0x58|
 |Text|0x0a|
 |Set Time|0x0b|
 |Start Game|0x0c|
@@ -69,6 +94,18 @@ permalink: /wiki/protocol/1.0.5/
 |Animate|0x2d|
 |Respawn|0x2e|
 |Drop Item|0x2f|
+|Player Input|0x3a|
+|Full Chunk Data|0x3b|
+|Set Commands Enabled|0x3c|
+|Set Difficulty|0x3d|
+|Change Dimension|0x3e|
+|Set Player Game Type|0x3f|
+|Camera|0x4a|
+|Add Item|0x4b|
+|Boss Event|0x4c|
+|Show Credits|0x4d|
+|Available Commands|0x4e|
+|Command Step|0x4f|
   
   
 Packet IDs from [PocketMine-MP](https://github.com/pmmp/PocketMine-MP).

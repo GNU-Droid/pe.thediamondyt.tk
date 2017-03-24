@@ -4,7 +4,7 @@ permalink: /wiki/realms/
 ---
 ## Realms API
 Mojang have a private API for interacting with their Realms servers. Here i will try to work out what all the fields mean so people can make their own API clients.  
-Unfortunatly i cant seem to get this to work and curl return `No reply from server"`.
+Unfortunatly i cant seem to get this to work and curl returns `No reply from server`.
 
 ### Base info
 Some info used in every GET request on this page **unless specified otherwise**.
