@@ -19,7 +19,7 @@ Tip: Use CTRL+F or your browsers page search feature to easily find the packet y
 |Name|ID|
 |----|--|
 |Login|0x01|
-|Play Status|0x02|
+|[Play Status](packets/playstatus)|0x02|
 |Server to Client Handshake|0x03|
 |Client to Server Handshake|0x04|
 |Disconnect|0x05|

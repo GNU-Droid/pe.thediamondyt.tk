@@ -6,7 +6,7 @@ permalink: /wiki/
 Welcome to my wiki! Here i will add all the techy things i find out about MCPE.  
 
 ### Get Started
-[Realms API](realms/)  
+[Realms API](api/realms/)  
 [MCPE Protocol](protocol/)  
   
 ### Credit
