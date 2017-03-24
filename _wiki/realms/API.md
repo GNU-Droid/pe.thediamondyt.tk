@@ -3,7 +3,8 @@ title: Realms API
 permalink: /wiki/realms/
 ---
 ## Realms API
-Mojang have a private API for interacting with their Realms servers. Here i will try to work out what all the fields mean so people can make their own API clients.
+Mojang have a private API for interacting with their Realms servers. Here i will try to work out what all the fields mean so people can make their own API clients.  
+Unfortunatly i cant seem to get this to work and curl return `No reply from server"`.
 
 ### Base info
 Some info used in every GET request on this page.
@@ -18,7 +19,6 @@ Some info used in every GET request on this page.
 |Client-Version|e.g. 1.0.4|
 |Cache-Control|no-cache|
 |Charset|utf-8|
-
 
 ### Endpoints
 In the future i will add individual pages for each endpoint.
