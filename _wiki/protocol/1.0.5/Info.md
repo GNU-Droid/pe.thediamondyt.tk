@@ -3,7 +3,7 @@ title: MCPE 1.0.5 Protocol
 permalink: /wiki/protocol/1.0.5/
 ---
 ## MCPE 1.0.5 Protocol  
-Tip: Use CTRL+F or the yours browsers such feature to easily find the packet you want.  
+Tip: Use CTRL+F or your browsers page search feature to easily find the packet you want.  
    
 {:.table}
 {:.table-bordered}
