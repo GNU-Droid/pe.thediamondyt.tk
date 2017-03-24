@@ -10,7 +10,7 @@ permalink: /wiki/protocol/1.0.5/
 |Protocol Number|105|
 |Version Number|1.0.5.0|
 |Version Name|v1.0.5.0 beta|
-  
+   
    
 ### Packets
 //TODO: Finish  
@@ -45,6 +45,12 @@ permalink: /wiki/protocol/1.0.5/
 |Use Item|0x24|
 |Player Action|0x25|
 |Player Fall|0x26|
+|Hurt Armor|0x27|
+|Set Entity Data|0x28|
+|Set Entity Motion|0x29|
+|Inventory Action|0x30|
+|Container Open|0x31|
+|Container Close|0x32|
 |Text|0x0a|
 |Set Time|0x0b|
 |Start Game|0x0c|
@@ -57,6 +63,12 @@ permalink: /wiki/protocol/1.0.5/
 |Entity Event|0x1d|
 |Mob Effect|0x1e|
 |Update Attributes|0x1f|
+|Set Entity Link|0x2a|
+|Set Health|0x2b|
+|Set Spawn Position|0x2c|
+|Animate|0x2d|
+|Respawn|0x2e|
+|Drop Item|0x2f|
   
   
 Packet IDs from [PocketMine-MP](https://github.com/pmmp/PocketMine-MP).
