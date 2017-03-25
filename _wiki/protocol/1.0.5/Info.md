@@ -22,7 +22,7 @@ Tip: Use CTRL+F or your browsers page search feature to easily find the packet y
 |[Play Status](packets/playstatus)|0x02|
 |Server to Client Handshake|0x03|
 |Client to Server Handshake|0x04|
-|Disconnect|0x05|
+|[Disconnect](packets/disconnect)|0x05|
 |Batch|0x06|
 |Resource Packs Info|0x07|
 |Resource Pack Stack|0x08|
@@ -76,8 +76,8 @@ Tip: Use CTRL+F or your browsers page search feature to easily find the packet y
 |Play Sound|0x56|
 |Stop Sound|0x57|
 |Set Title|0x58|
-|Text|0x0a|
-|Set Time|0x0b|
+|[Text](packets/text)|0x0a|
+|[Set Time](packets/settime)|0x0b|
 |Start Game|0x0c|
 |Add Player|0x0d|
 |Add Entity|0x0e|

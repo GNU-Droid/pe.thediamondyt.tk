@@ -17,8 +17,8 @@ permalink: /wiki/protocol/1.0.5/packets/playstatus/
 |Name|ID|Description|
 |----|--|-----------|
 |Success|0|Everything is good|
-|Failed Client|1|The client is outdated!|
-|Failed Server|2|The server is outdated!|
+|Failed Client|1|The client is outdated|
+|Failed Server|2|The server is outdated|
 |Player Spawn|3|If the player has spawned|
 |Invalid Tenant|4|**TODO**|
 |Version Mismatch|5|**TODO**|
@@ -27,8 +27,8 @@ permalink: /wiki/protocol/1.0.5/packets/playstatus/
 
 {:.table}
 {:.table-bordered}
-|Name|Type|
-|----|----|
-|Server Status|int|
+|Name|Type|Description|
+|----|----|-----------|
+|Server Status|int|The servef status. Values stated above.|
 
 Packet Info from [PocketMine-MP](https://github.com/pmmp/PocketMine-MP).
