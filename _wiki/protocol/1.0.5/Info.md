@@ -11,6 +11,15 @@ Tip: Use CTRL+F or your browsers page search feature to easily find the packet y
 |Version Number|1.0.5.0|
 |Version Name|v1.0.5.0 beta|
    
+### Whats new?
+The following packets are new to this version of Minecraft PE:  
+
+* Block Pick Request
+* Command Block Update
+* Play Sound
+* Stop Sound
+* Set Title
+   
    
 ### Packets
 
