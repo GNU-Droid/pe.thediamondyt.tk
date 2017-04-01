@@ -29,6 +29,6 @@ permalink: /wiki/protocol/1.0.5/packets/playstatus/
 {:.table-bordered}
 |Name|Type|Description|
 |----|----|-----------|
-|Server Status|int|The servef status. Values stated above.|
+|Server Status|int|The server status. Values stated above.|
 
 Packet Info from [PocketMine-MP](https://github.com/pmmp/PocketMine-MP).

@@ -12,9 +12,10 @@ Click the MCPE version to get full information.
 
 {:.table}
 {:.table-bordered}
-|Version|Protocol Number|
+|MCPE Version|Protocol Version|
 |-------|---------------|
 |[1.0.5](1.0.5/)|105|
+|1.0.4.11|102|
 
 //TODO: older mcpe versions
 
