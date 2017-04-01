@@ -37,7 +37,7 @@ NOTE: The names of each field is the *exact* field name sent from the client.
 |CurrentInputMode|int|**TODO**|
 |DefaultInpuutMode|int|**TODO**|
 |DeviceModel|string|The model of the device|
-|[DeviceOS](#){:data-target="#modalDeviceOS"} |int|**TODO**|
+|[DeviceOS](#){:data-toggle="modal"}{:data-target="#modalDeviceOS"} |int|**TODO**|
 |GameVersion|string|The network game version|
 |GuiScale|int|**TODO**|
 |ServerAddress|string|The server address and port|
