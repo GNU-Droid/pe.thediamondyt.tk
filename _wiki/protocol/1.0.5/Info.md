@@ -27,7 +27,7 @@ The following packets are new to this version of Minecraft PE:
 {:.table-bordered}
 |Name|ID|
 |----|--|
-|Login|0x01|
+|[Login](packets/login)|0x01|
 |[Play Status](packets/playstatus)|0x02|
 |Server to Client Handshake|0x03|
 |Client to Server Handshake|0x04|
