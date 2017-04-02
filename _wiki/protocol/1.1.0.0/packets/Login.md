@@ -1,4 +1,5 @@
 ---
+layout: login
 title: MCPE 1.1.0.0 LoginPacket
 permalink: /wiki/protocol/1.1.0.0/packets/login/
 ---
@@ -38,9 +39,9 @@ NOTE: The names of each field is the *exact* field name sent from the client.
 |ClientRandomId|float|**TODO**|
 |CurrentInputMode|int|**TODO**|
 |DefaultInpuutMode|int|**TODO**|
-|DeviceModel|string|The model of the device|
+|[DeviceModel](#){:data-toggle="modal"}{:data-target="#modalDeviceModel"} |string|The model of the device|
 |[DeviceOS](#){:data-toggle="modal"}{:data-target="#modalDeviceOS"} |int|**TODO**|
-|GameVersion|string|The network game version|
+|[GameVersion](#){:data-toggle="modal"}{:data-target="#modalGameVersion"} |string|The network game version|
 |GuiScale|int|**TODO**|
 |ServerAddress|string|The server address and port|
 |SkinId|string|The name of the players skin|
