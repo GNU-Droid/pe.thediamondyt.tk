@@ -14,6 +14,7 @@ Click the MCPE version to get full information.
 {:.table-bordered}
 |MCPE Version|Protocol Version|
 |-------|---------------|
+|[1.1.0.0](1.1.0.0/)|110|
 |[1.0.5](1.0.5/)|105|
 |1.0.4.11|102|
 

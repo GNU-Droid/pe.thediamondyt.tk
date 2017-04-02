@@ -67,7 +67,7 @@ The following packets are new to this version of Minecraft PE:
 |Adventure Settings|0x38|
 |Block Entity Data|0x39|
 |Player List|0x40|
-|Telementry Event|0x41|
+|Telemetry Event|0x41|
 |Spawn Experience Orb|0x42|
 |Map Item Data|0x43|
 |Map Info Request|0x44|
