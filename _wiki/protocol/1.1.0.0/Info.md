@@ -30,7 +30,7 @@ Also, the following packets are **removed** from this version:
 {:.table-bordered}
 |Name|ID|
 |----|--|
-|Login|0x01|
+|[Login](packets/login)|0x01|
 |Play Status|0x02|
 |Server to Client Handshake|0x03|
 |Client to Server Handshake|0x04|
