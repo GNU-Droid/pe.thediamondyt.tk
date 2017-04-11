@@ -3,7 +3,7 @@ title: MCPE 1.1.0.0 Protocol
 permalink: /wiki/protocol/1.1.0.0/
 ---
 ## MCPE 1.1.0.0 Protocol  
-Tip: Use CTRL+F or your browsers page search feature to easily find the packet you want.  
+Tip: Use CTRL+F or your browsers page search feature to easily find the packet you want. 
    
 {:.table}
 {:.table-bordered}
@@ -24,7 +24,6 @@ Also, the following packets are **removed** from this version:
 * Batch
    
 ### Packets
-//TODO: finish
 
 {:.table}
 {:.table-bordered}
@@ -101,5 +100,26 @@ Also, the following packets are **removed** from this version:
 |Entity Event|0x1c|
 |Mob Effect|0x1d|
 |Update Attributes|0x1e|
+|Mob Equipment|0x1f|
+|Set Health|0x2a|
+|Set Spawn Position|0x2b|
+|Animate|0x2c|
+|Respawn|0x2d|
+|Drop Item|0x2e|
+|Inventory Action|0x2f|
+|Full Chunk Data|0x3a|
+|Set Commands Enabled|0x3b|
+|Set Difficulty|0x3c|
+|Change Dimention|0x3d|
+|Set Player Game Type|0x3e|
+|Player List|0x3f|
+|Camera|0x4a|
+|Add Item|0x4b|
+|Boss Event|0x4c|
+|Show Credits|0x4d|
+|Available Commands|0x4e|
+|Command Step|0x4f|
+|Add Behaviour Tree|0x5a|
+|Structure Block Update|0x5b|
   
 Packet IDs from [PocketMine-MP](https://github.com/pmmp/PocketMine-MP).

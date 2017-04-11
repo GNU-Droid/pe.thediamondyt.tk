@@ -15,7 +15,18 @@ The login packet is encoded with json encoded base64.
 NOTE: The names of each field is the *exact* field name sent from the client.  
 **Not all these fields may be correct.**
   
-  
+Click a field name for more info and examples.
+    
+### Data
+
+{:.table}
+{:.table-bordered}
+|Name|Type|Description|
+|----|----|-----------|
+|exp|int|**TODO**|
+|identityPublicKey|string|**TODO**|
+|nbf|int|**TODO**|
+    
 #### Extra Data  
   
 {:.table}
@@ -24,7 +35,6 @@ NOTE: The names of each field is the *exact* field name sent from the client.
 |----|----|-----------|
 |displayName|string|The name of the player|
 |identity|string|The UUID of the player?|
-|identityPublicKey|string|**TODO**|
     
    
 #### Client Data
@@ -41,8 +51,8 @@ NOTE: The names of each field is the *exact* field name sent from the client.
 |[DeviceOS](#){:data-toggle="modal"}{:data-target="#modalDeviceOS"} |int|**TODO**|
 |[GameVersion](#){:data-toggle="modal"}{:data-target="#modalGameVersion"} |string|The network game version|
 |GuiScale|int|**TODO**|
-|ServerAddress|string|The server address and port|
-|SkinId|string|The name of the players skin|
+|[ServerAddress](#){:data-toggle="modal"}{:data-target="#modalServerAddress"} |string|The server address and port|
+|[SkinId](#){:data-toggle="modal"}{:data-target="#modalSkinId"} |string|The name of the players skin|
 |TenantId|string|**TODO**|
 |UIProfile|int|**TODO**|
   
