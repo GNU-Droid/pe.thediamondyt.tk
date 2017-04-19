@@ -47,14 +47,54 @@ Click a field name for more info and examples.
 |ClientRandomId|float|**TODO**|
 |CurrentInputMode|int|**TODO**|
 |DefaultInpuutMode|int|**TODO**|
-|[DeviceModel](#){:data-toggle="modal"}{:data-target="#modalDeviceModel"} |string|The model of the device|
-|[DeviceOS](#){:data-toggle="modal"}{:data-target="#modalDeviceOS"} |int|**TODO**|
-|[GameVersion](#){:data-toggle="modal"}{:data-target="#modalGameVersion"} |string|The network game version|
+|[DeviceModel](#){:data-target="#DeviceModel"} |string|The model of the device|
+|[DeviceOS](#){:data-target="#DeviceOS"} |int|**TODO**|
+|[GameVersion](#){:data-target="#GameVersion"} |string|The network game version|
 |GuiScale|int|**TODO**|
 |[ServerAddress](#){:data-toggle="modal"}{:data-target="#modalServerAddress"} |string|The server address and port|
 |[SkinId](#){:data-toggle="modal"}{:data-target="#modalSkinId"} |string|The name of the players skin|
 |TenantId|string|**TODO**|
 |UIProfile|int|**TODO**|
+
+---
+
+##### DeviceModel
+This field contains the model of the clients device. It is the same one as found in the devices' settings app.
+
+{:.table}
+{:.table-bordered}
+|Example|Device|
+|-------|------|
+|AMAZON KFGIWI|Kindle Fire HD 8|
+
+
+#### DeviceOS
+This field contains the operating system of the clients device, as an integer.
+
+{:.table}
+{:.table-bordered}
+|Value|Example|
+|----|-------|
+|1|Android|
+|2|iOS|
+|3|OSX|
+|4|FireOS|
+|5|GearVR|
+|6|Hololens|
+|7|Windows 10|
+|8|Windows 32 (desktop app)|
+|9|Dedicated|
+  
+
+##### GameVersion
+This field contains the game version of the client, as an integer.
+
+{:.table}
+{:.table-bordered}
+|Example|Readable Version|
+|-------|----------------|
+|1.0.5|v1.0.5.0 beta|
+|1.1.0.0|v1.1 beta|
   
   
 #### Example
