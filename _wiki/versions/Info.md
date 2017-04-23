@@ -5,6 +5,8 @@ permalink: /wiki/versions/
 # Minecraft Pocket Edition
 Click the version of your choice to view changelog, protocol info and method dumps from libminecraftpe.so
 
+{:.table}
+{:.table-bordered}
 |Versions|
 |--------|
 |[v1.1.0.0](1.1.0.0/)|
