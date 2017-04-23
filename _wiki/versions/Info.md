@@ -9,10 +9,18 @@ Click the version of your choice to view changelog, protocol info and method dum
 {:.table-bordered}
 |Versions|
 |--------|
+|[v1.1.0.8](1.1.0.8/)|
 |[v1.1.0.0](1.1.0.0/)|
-|[0.8.0 alpha](0.8.0/)|
-|[0.7.4 alpha](0.7.4/)|
-|[0.2.0 alpha](0.2.0/)|
+|[v0.8.0 alpha](0.8.0/)|
+|[v0.7.4 alpha](0.7.4/)|
+|[v0.2.0 alpha](0.2.0/)|
+|[v0.0.1 alpha](0.0.1/)|
+  
+### Demos
+{:.table}
+{:.table-bordered}
+|Versions|
+|[v0.2.1 alpha build 2](demo/0.2.1.2)|
 
 
 ### How to create a dump
