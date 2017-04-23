@@ -8,7 +8,7 @@ permalink: /wiki/versions/0.2.0/
 ### Dumps
 All functions in the libminecraftpe.so Android binary.
 
-[Full Dump](dumps/fulldump.txt)
-[Blocks Dump](dumps/blockdump.txt)
-[Items Dump](dumps/itemdump.txt)
-[Packet Dump](dumps/packetdump.txt)
+[Full Dump](dumps/fulldump.txt)  
+[Blocks Dump](dumps/blockdump.txt)  
+[Items Dump](dumps/itemdump.txt)  
+[Packet Dump](dumps/packetdump.txt)  
