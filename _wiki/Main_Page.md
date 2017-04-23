@@ -8,8 +8,8 @@ Welcome to my wiki! Here i will add all the techy things i find out about MCPE.
 ### Get Started
 [Realms API](api/realms/)  
 [MCPE Protocol](protocol/)  
-[Server Softwares](software/server/)
-[MCPE Update Info & Dumps|(versions/)
+[Server Softwares](software/server/)  
+[MCPE Update Info & Dumps](versions/)
   
 ### Credit
 Some of the information used in this wiki is from other sources, such as:  
