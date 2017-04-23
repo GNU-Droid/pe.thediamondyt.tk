@@ -8,20 +8,7 @@ permalink: /wiki/versions/0.2.0/
 ### Dumps
 All functions in the libminecraftpe.so Android binary.
 
-[Full Dump](dumps/dump.txt)
+[Full Dump](dumps/fulldump.txt)
 [Blocks Dump](dumps/blockdump.txt)
 [Items Dump](dumps/itemdump.txt)
 [Packet Dump](dumps/packetdump.txt)
-
-### How I got the data
-I simply went in my Android Linux terminal and typed the following.
-
-##### Full Dump
-```bash
-nm -DC libminecraftpe.so > dump.txt
-```
-
-##### Packets
-```bash
-nm -DC libminecraftpe.so | grep "Packet::" > packetdump.txt
-```
