@@ -1,6 +1,6 @@
 ---
 title: MCPE 1.1.0.0 Info
-permalink: /wiki/versions/1.1.0.0
+permalink: /wiki/versions/1.1.0.0/
 ---
 # MCPE 1.1.0.0
 // TODO

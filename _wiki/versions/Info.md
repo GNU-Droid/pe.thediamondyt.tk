@@ -1,8 +1,8 @@
 ---
-title: Minecraft: Pocket Edition
+title: Minecraft Pocket Edition
 permalink: /wiki/versions/
 ---
-# Minecraft: Pocket Edition
+# Minecraft Pocket Edition
 Click the version of your choice to view changelog, protocol info and method dumps from libminecraftpe.so
 
 |Versions|
