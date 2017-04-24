@@ -5,8 +5,11 @@ permalink: /wiki/versions/0.1.3/
 # MCPE 0.1.3
 // TODO
 
-#### Release Dates  
-|Android|iOS|  
+#### Release Dates
+ 
+{:.table}
+{:.table-bordered}
+|Android|iOS|
 |-------|---|
 |December 3, 2011|December 14, 2011|
 
