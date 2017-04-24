@@ -20,6 +20,7 @@ Click the version of your choice to view changelog, protocol info and method dum
 {:.table}
 {:.table-bordered}
 |Versions|
+|--------|
 |[v0.2.1 alpha build 2](demo/0.2.1.2)|
 
 
