@@ -14,7 +14,7 @@ Click the version of your choice to view changelog, protocol info and method dum
 |[v0.8.0 alpha](0.8.0/)|
 |[v0.7.4 alpha](0.7.4/)|
 |[v0.2.0 alpha](0.2.0/)|
-|[v0.0.1 alpha](0.0.1/)|
+|[v0.1.1 alpha](0.1.1/)|
   
 ### Demos
 {:.table}

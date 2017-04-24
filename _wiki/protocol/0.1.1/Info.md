@@ -1,8 +1,8 @@
 ---
-title: MCPE 0.0.1 Protocol
-permalink: /wiki/protocol/0.0.1/
+title: MCPE 0.1.1 Protocol
+permalink: /wiki/protocol/0.1.1/
 ---
-## MCPE 0.0.1 Protocol  
+## MCPE 0.1.1 Protocol  
 NOTE: MCPE did not have support for external servers in this version, so this protocol is for LAN games im guessing.
 
 Tip: Use CTRL+F or your browsers page search feature to easily find the packet you want.  
@@ -10,8 +10,8 @@ Tip: Use CTRL+F or your browsers page search feature to easily find the packet y
 {:.table}
 {:.table-bordered}
 |Protocol Number|Unknown|
-|Version Number|0.0.1|
-|Version Name|v0.0.1 alpha|
+|Version Number|0.1.1|
+|Version Name|v0.1.1 alpha|
    
 ### Packets
 
@@ -33,4 +33,4 @@ Tip: Use CTRL+F or your browsers page search feature to easily find the packet y
 |Request Chunk||
 |Player Equipment||
 
-[Packet Dump](http://pe.thediamondyt.tk/wiki/versions/0.0.1/dumps/packetdump.txt)
+[Packet Dump](http://pe.thediamondyt.tk/wiki/versions/0.1.1/dumps/packetdump.txt)

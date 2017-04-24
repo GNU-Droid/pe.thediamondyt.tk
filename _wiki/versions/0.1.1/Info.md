@@ -1,8 +1,8 @@
 ---
-title: MCPE 0.0.1 Info
-permalink: /wiki/versions/0.0.1/
+title: MCPE 0.1.1 Info
+permalink: /wiki/versions/0.1.1/
 ---
-# MCPE 0.0.1
+# MCPE 0.1.1
 // TODO
 |Release Date|
 |Platforms|
@@ -15,4 +15,4 @@ All functions in the libminecraftpe.so Android binary.
 [Items Dump](dumps/itemdump.txt)  
 [Packet Dump](dumps/packetdump.txt)  
   
-[Protocol Info](http://thediamondyt.tk/wiki/protocol/0.0.1/
+[Protocol Info](http://thediamondyt.tk/wiki/protocol/0.1.1/
