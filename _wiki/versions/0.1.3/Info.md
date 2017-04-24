@@ -5,12 +5,13 @@ permalink: /wiki/versions/0.1.3/
 # MCPE 0.1.3
 // TODO
 
-#### Release Dates
-|Android|iOS|
+#### Release Dates  
+|Android|iOS|  
+|-------|---|
 |December 3, 2011|December 14, 2011|
 
 ### Changelog
-
+  
   
 #### Android
 
@@ -46,5 +47,7 @@ All functions in the libminecraftpe.so Android binary.
 [Blocks Dump](dumps/blockdump.txt)  
 [Items Dump](dumps/itemdump.txt)  
 [Packet Dump](dumps/packetdump.txt)  
+
+---
   
 [Protocol Info](http://thediamondyt.tk/wiki/protocol/0.1.3/)
