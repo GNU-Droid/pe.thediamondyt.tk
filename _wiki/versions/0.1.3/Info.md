@@ -4,11 +4,14 @@ permalink: /wiki/versions/0.1.3/
 ---
 # MCPE 0.1.3
 // TODO
-|Release Date|iOS - December 14th 2011<br/>Android - December 3rd 2011|
-|Platforms||
+
+#### Release Dates
+|Android|iOS|
+|December 3, 2011|December 14, 2011|
 
 ### Changelog
 
+  
 #### Android
 
 ##### Additions
@@ -25,6 +28,7 @@ permalink: /wiki/versions/0.1.3/
 * Fixed a crash bug when connecting to some iOS server maps
 * Blocks placed on snow were added incorrectly in multiplayer
 
+  
 #### iOS
 
 ##### Additions
@@ -34,6 +38,7 @@ permalink: /wiki/versions/0.1.3/
 * Improvements in network chunk loading
 * Fixed bug with opening dialogs after closing the options menu
 
+  
 ### Dumps
 All functions in the libminecraftpe.so Android binary.  
 
@@ -42,4 +47,4 @@ All functions in the libminecraftpe.so Android binary.
 [Items Dump](dumps/itemdump.txt)  
 [Packet Dump](dumps/packetdump.txt)  
   
-[Protocol Info](http://thediamondyt.tk/wiki/protocol/0.1.3/
+[Protocol Info](http://thediamondyt.tk/wiki/protocol/0.1.3/)
