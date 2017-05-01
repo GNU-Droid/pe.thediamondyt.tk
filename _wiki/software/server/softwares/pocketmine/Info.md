@@ -6,4 +6,5 @@ permalink: /wiki/software/server/pocketmine/
 
 {:.table}
 {:.table-bordered}
-|Language|Java|
+|Language|PHP|
+|Source|https://github.com/pmmp/PocketMine-MP|

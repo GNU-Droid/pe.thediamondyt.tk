@@ -6,7 +6,7 @@ permalink: /wiki/protocol/1.1.0.0/packets/login/
 ## Login Packet
 The login packet is encoded with json encoded base64.
 
-> As far as i can tell, these fields are the same as the 1.0.5 Login Packet.
+> As far as i can tell, these fields are the same as the [1.0.5 Login Packet](/wiki/1.0.5/).
 
 {:.table}
 {:.table-bordered}

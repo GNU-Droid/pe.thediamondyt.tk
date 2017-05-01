@@ -7,20 +7,20 @@ Click the version of your choice to view changelog, protocol info and method dum
 
 {:.table}
 {:.table-bordered}
-|Versions|
-|--------|
-|[v1.1.0.8](1.1.0.8/)|
-|[v1.1.0.0](1.1.0.0/)|
-|[v0.8.0 alpha](0.8.0/)|
-|[v0.7.4 alpha](0.7.4/)|
-|[v0.2.0 alpha](0.2.0/)|
-|[v0.1.3 alpha](0.1.3/)|
-|[v0.1.1 alpha](0.1.1/)|
+|Version|Protocol Version|
+|--------|----------------|
+|[v1.1.0.8](1.1.0.8/)|111|
+|[v1.1.0.0](1.1.0.0/)|110|
+|[v0.8.0 alpha](0.8.0/)|14|
+|[v0.7.4 alpha](0.7.4/)|12|
+|[v0.2.0 alpha](0.2.0/)||
+|[v0.1.3 alpha](0.1.3/)||
+|[v0.1.1 alpha](0.1.1/)||
   
 ### Demos
 {:.table}
 {:.table-bordered}
-|Versions|
+|Version|
 |--------|
 |[v0.2.1 alpha build 2](demo/0.2.1.2)|
 
