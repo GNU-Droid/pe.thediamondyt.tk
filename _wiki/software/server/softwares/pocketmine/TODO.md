@@ -6,18 +6,21 @@ permalink: /wiki/software/server/pocketmine/todo/
 ---
 
 #### Commands
-- [ ] /clear
-- [ ] /clone
-- [ ] /execute
-- [ ] /fill
-- [ ] /game-
-- [ ] /stopsound
-- [ ] /setblock
-- [ ] /spreadplayers
-- [ ] /testfor
-- [ ] /testforblock
-- [ ] /testforblocks
-- [ ] /replaceitem
-- [ ] /xp
+* Commands
+ * /clear
+ * /clone
+ * /execute
+ * /fill
+ * /gamerule 
+ * /locate
+ * /playsound
+ * /stopsound
+ * /setblock
+ * /spreadplayers
+ * /testfor
+ * /testforblock
+ * /testforblocks
+ * /replaceitem
+ * /xp
 
 ###### TODO: finish
