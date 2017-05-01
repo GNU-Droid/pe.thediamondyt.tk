@@ -8,6 +8,6 @@ permalink: /wiki/software/server/
 {:.table-bordered}
 |Name|Status|
 |----|------|
-|PocketMine-MP|In Development|
+|[PocketMine-MP](pocketmine/)|In Development|
 |MiNET|In Development|
 |Voxelwind|Inactive|
