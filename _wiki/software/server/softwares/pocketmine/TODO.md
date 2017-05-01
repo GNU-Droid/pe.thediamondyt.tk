@@ -27,7 +27,7 @@ A compiled list of all things that arent currently implemented in PocketMine, bu
  * /testforblocks
  * /replaceitem 
    * \<block: string> \<position: x y z> \<slotType: string> \<slotId: int> \<itemName: string> [amount: int] [data: int]
-   * /<entity: string> \<target: target> \<slotType: string> \<slotId: int> \<itemName: string> [amount: int] [data: int]
+   * \<entity: string> \<target: target> \<slotType: string> \<slotId: int> \<itemName: string> [amount: int] [data: int]
  * /xp
  
 #### Bugs
