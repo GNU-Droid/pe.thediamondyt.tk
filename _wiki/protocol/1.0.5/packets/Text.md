@@ -33,25 +33,24 @@ permalink: /wiki/protocol/1.0.5/packets/text/
 |System|type|5|
 |Whisper|type|6|
 
-  * Raw  
+* Raw  
     
-  A raw message that will be printed in the chat without any modifications.
+A raw message that will be printed in the chat without any modifications.
   
-  **Additional Fields:**  
-  `message|string`
+**Additional Fields:**  
+`message: string`
   
-  * Chat   
+* Chat   
+    A chat message sent by a player to the server. If it was sent from the server it will display as *<sender> message*.
+  
+**Additional Fields:**  
+`sender: string`  
+`message: string`
+  
+  * sender  
+  The name of the player who sent the message.
     
-  A chat message sent by a player to the server. If it was sent from the server it will display as *<sender> message*.
-  
-  **Additional Fields:**  
-  `sender: string`
-  `message: string`
-  
-    - sender  
-    The name of the player who sent the message.
-    
-    * message  
-    The message that the player sent.
+  * message  
+  The message that the player sent.
 
 Packet Info from [PocketMine-MP](https://github.com/pmmp/PocketMine-MP).
