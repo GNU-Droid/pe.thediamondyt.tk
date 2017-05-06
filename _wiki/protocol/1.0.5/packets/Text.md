@@ -38,7 +38,9 @@ permalink: /wiki/protocol/1.0.5/packets/text/
    A raw message that will be printed in the chat without any modifications.
   
    **Additional Fields:**  
-   `message: string`
+   |Name|Type|
+   |----|----|
+   |message|string|
   
 * Chat   
 
