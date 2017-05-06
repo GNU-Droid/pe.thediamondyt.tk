@@ -10,7 +10,11 @@ permalink: /wiki/software/pocketmine/
 |Source|https://github.com/pmmp/PocketMine-MP|
 |Website|http://pmmp.io|
 |Creator|Shoghi Cervantes|
+|Maintainer|Dylan K. Taylor|
 
-PocketMine-MP was originally a proof of concept
+PocketMine-MP was originally created to be a proof of concept. 
+
+#### PocketMine Realms
+//TODO
 
 [TODO List](todo/)
