@@ -1,9 +1,9 @@
 ---
 name: PocketMine-MP TODO List
-permalink: /wiki/software/server/pocketmine/todo/
+permalink: /wiki/software/pocketmine/todo/
 ---
 ## PocketMine-MP TODO List
-A compiled list of all things that arent currently implemented in PocketMine, but should be.
+An compiled list of all things that arent currently implemented in PocketMine, but should be.
 ---
 
 #### Commands
@@ -19,7 +19,7 @@ A compiled list of all things that arent currently implemented in PocketMine, bu
    * \<rule: string>
  * /locate \<feature: string>
  * /playsound \<sound: string> \<player: target> [position: x y z] [volume: float] [pitch: float] [minimumVolume: float]
- * /stopsound 
+ * /stopsound \<sound: string>
  * /setblock
  * /spreadplayers
  * /testfor \<victim: target>
@@ -28,11 +28,13 @@ A compiled list of all things that arent currently implemented in PocketMine, bu
  * /replaceitem 
    * \<block: string> \<position: x y z> \<slotType: string> \<slotId: int> \<itemName: string> [amount: int] [data: int]
    * \<entity: string> \<target: target> \<slotType: string> \<slotId: int> \<itemName: string> [amount: int] [data: int]
- * /xp
+ * /xp \<amount: int> \<target: target>
+ 
+#### Blocks
+* Double plants arent implemented ([#882](https://github.com/pmmp/PocketMine-MP/issues/882))
  
 #### Bugs
  * Players in spectater mode cannot shoot bows ([#852](https://github.com/pmmp/PocketMine-MP/issues/852))
  * Poorly coded NBT library is really slow ([#466](https://github.com/pmmp/PocketMine-MP/issues/466))
  * Command usage output is incorrect on the client ([#236](https://github.com/pmmp/PocketMine-MP/issues/236))
-
-###### TODO: finish
+ * Torches cannot be placed on top of some blocks ([#458](https://github.com/pmmp/PocketMine-MP/issues/458))

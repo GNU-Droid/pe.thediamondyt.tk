@@ -21,6 +21,7 @@ Click the MCPE version to get full information.
 |v1.1.0.4|1.1.0.4|110|
 |v1.1.0.3|1.1.0.3|110|
 |v1.1.0.0|[1.1.0.0](1.1.0.0/)|110|
+||1.0.7|107|
 ||1.0.6.52|106|
 ||1.0.6.0|105|
 ||[1.0.5.0](1.0.5/)|105|
@@ -52,7 +53,6 @@ Click the MCPE version to get full information.
 |v0.7.4 alpha|0.7.4|12|
 
 ### RakNet Packets
-RakNet packets will **never** change.  
   
 //TODO
 

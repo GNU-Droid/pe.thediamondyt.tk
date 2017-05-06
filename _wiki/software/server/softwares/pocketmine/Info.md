@@ -1,6 +1,6 @@
 ---
 name: PocketMine-MP
-permalink: /wiki/software/server/pocketmine/
+permalink: /wiki/software/pocketmine/
 ---
 ## PocketMine-MP
 
@@ -8,5 +8,9 @@ permalink: /wiki/software/server/pocketmine/
 {:.table-bordered}
 |Language|PHP|
 |Source|https://github.com/pmmp/PocketMine-MP|
+|Website|http://pmmp.io|
+|Creator|Shoghi Cervantes|
+
+PocketMine-MP was originally a proof of concept
 
 [TODO List](todo/)

@@ -19,10 +19,6 @@ The following packets are **new** to this version of Minecraft PE:
 * Update Equip
 * Simple Event
 
-Also, the following packets are **removed** from this version:
-
-* Batch
-   
 ### Packets
 
 {:.table}

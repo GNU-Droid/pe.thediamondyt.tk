@@ -15,7 +15,6 @@ permalink: /wiki/versions/0.1.3/
 
 ### Changelog
   
-  
 #### Android
 
 ##### Additions
