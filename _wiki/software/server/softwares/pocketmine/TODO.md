@@ -38,3 +38,12 @@ An compiled list of all things that arent currently implemented in PocketMine, b
  * Poorly coded NBT library is really slow ([#466](https://github.com/pmmp/PocketMine-MP/issues/466))
  * Command usage output is incorrect on the client ([#236](https://github.com/pmmp/PocketMine-MP/issues/236))
  * Torches cannot be placed on top of some blocks ([#458](https://github.com/pmmp/PocketMine-MP/issues/458))
+ * Players can fall up to 5 blocks without taking fall damage ([#891](https://github.com/pmmp/PocketMine-MP/issues/891))
+ * Effects can be given to non-living entity classes ([#886](https://github.com/pmmp/PocketMine-MP/issues/886))
+ 
+ #### Other
+ * Write documentation for all functions
+ * Add missing fields to RakNet broadcast name 
+   * Server ID: long
+   * World Name: string
+   * Game Type: string
