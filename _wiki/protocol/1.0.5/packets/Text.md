@@ -35,12 +35,13 @@ permalink: /wiki/protocol/1.0.5/packets/text/
 
 * Raw  
     
-A raw message that will be printed in the chat without any modifications.
+   A raw message that will be printed in the chat without any modifications.
   
-**Additional Fields:**  
-`message: string`
+   **Additional Fields:**  
+   `message: string`
   
 * Chat   
+
     A chat message sent by a player to the server. If it was sent from the server it will display as *<sender> message*.
   
 **Additional Fields:**  
