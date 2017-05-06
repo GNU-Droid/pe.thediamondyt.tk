@@ -48,13 +48,8 @@ permalink: /wiki/protocol/1.0.5/packets/text/
   A chat message sent by a player to the server. If it was sent from the server it will display as *<sender> message*.
   
   **Additional Fields:**
-  
-{:.table}
-{:.table-bordered}
-|Name|Type|
-|----|----|
-|sender|string|
-|message|string|
+  |sender|string|
+  |message|string|
   
     * sender  
     The name of the player who sent the message.
