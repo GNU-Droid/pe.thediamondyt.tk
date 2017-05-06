@@ -8,6 +8,9 @@ A compiled list of all things that arent currently implemented in PocketMine, bu
 ---
 
 #### Commands
+ * Give command overflow handling ([GiveCommand.php#L88](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/command/defaults/GiveCommand.php#L88))
+ 
+##### To implement
  * /clear [player: target] [itemName: string] [data: int] [maxCount: int]
  * /clone \<begin: x y z> \<end: x y z> \<destination: x y z> [maskMode: string] [cloneMode: string] [tileName: string] [tileData: int]
  * /execute 
@@ -32,7 +35,17 @@ A compiled list of all things that arent currently implemented in PocketMine, bu
  * /xp \<amount: int> \<target: target>
  
 #### Blocks
-* Double plants arent implemented ([#882](https://github.com/pmmp/PocketMine-MP/issues/882))
+ * Redstone is not implemented
+ * Double plants arent implemented ([#882](https://github.com/pmmp/PocketMine-MP/issues/882))
+ * Implement block bounding boxes and collision boxes ([#169](https://github.com/pmmp/PocketMine-MP/issues/169))
+ 
+#### World
+ * Add support for limited worlds ([LevelDB.php#L151](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/level/format/io/leveldb/LevelDB.php#L151))
+ * Add emerald to mountain biome ([MountainBiome.php#L41](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/level/generator/normal/biome/MountainsBiome.php#L41))
+ * Add world height options ([Anvil.php#L160](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/level/format/io/region/Anvil.php#L160))
+ * Build height limit messages for custom world heights ([(Level.php#1708](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/level/Level.php#L1708))
+ * Decrease light level by time of day ([Level.php#1297](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/level/Level.php#L1297))
+ * Implement `LastUpdate` and `InheritedTime` tags in all ([Anvil.php#L47#L48](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/level/format/io/region/Anvil.php#L47#L48)), ([McRegion.php#L61#L62](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/level/format/io/region/McRegion.php#L61#L62))
  
 #### Bugs
  * Players in spectater mode cannot shoot bows ([#852](https://github.com/pmmp/PocketMine-MP/issues/852))
@@ -42,9 +55,11 @@ A compiled list of all things that arent currently implemented in PocketMine, bu
  * Players can fall up to 5 blocks without taking fall damage ([#891](https://github.com/pmmp/PocketMine-MP/issues/891))
  * Effects can be given to non-living entity classes ([#886](https://github.com/pmmp/PocketMine-MP/issues/886))
  
- #### Other
+#### Other
  * Write documentation for all functions
  * Add missing fields to RakNet broadcast name 
    * Server ID: long
    * World Name: string
    * Game Type: string
+ * Rewrite translation system to use sprintf and support for vanilla language files ([#207 (comment)](https://github.com/pmmp/PocketMine-MP/issues/207#issuecomment-280027871))
+ 
