@@ -10,22 +10,54 @@ permalink: /wiki/protocol/1.0.5/packets/text/
 |Sent from client|true|
 |Sent from server|true|
 
-### Types
+### Fields
 //TODO: better descriptions
 
 {:.table}
 {:.table-bordered}
-|Name|ID|Description|
-|----|--|-----------|
-|Raw|0|**TODO**|
-|Chat|1|A chat message|
-|Translation|2|A translation, e.g. %commands.give.usage|
-|Popup|3|A popup message|
-|Tip|4|A tip message|
-|System|5|**TODO**|
-|Whisper|6|**TODO**|
+|Name|Type|
+|----|----|
+|type|byte|
 
-### Fields
-//TODO
+### Variants
+
+{:.table}
+{:.table-bordered}
+|Name|Field|Value|
+|----|-----|-----|
+|Raw|type|0|
+|Chat|type|1|
+|Translation|type|2|
+|Popup|type|3|
+|Tip|type|4|
+|System|type|5|
+|Whisper|type|6|
+
+ * Raw
+  A raw message that will be printed in the chat without any modifications.
+  
+  **Additional Fields:**
+  {:.table}
+  {:.table-bordered}
+  |Name|Type|
+  |----|----|
+  |message|string|
+  
+  * Chat
+  A chat message sent by a player to the server. If it was sent from the server it will display as `<sender> message`.
+  
+  **Additional Fields:**
+  {:.table}
+  {:.table-bordered}
+  |Name|Type|
+  |----|----|
+  |sender|string|
+  |message|string|
+  
+    * sender
+    The name of the player who sent the message.
+    
+    * message
+    The message that the player sent.
 
 Packet Info from [PocketMine-MP](https://github.com/pmmp/PocketMine-MP).
