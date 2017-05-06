@@ -33,23 +33,18 @@ permalink: /wiki/protocol/1.0.5/packets/text/
 |System|type|5|
 |Whisper|type|6|
 
- * Raw  
+  * Raw  
   A raw message that will be printed in the chat without any modifications.
   
   **Additional Fields:**
-  
-  {:.table}
-  {:.table-bordered}
-  |Name|Type|
-  |----|----|
-  |message|string|
+  `message|string`
   
   * Chat  
   A chat message sent by a player to the server. If it was sent from the server it will display as *<sender> message*.
   
   **Additional Fields:**
-  |sender|string|
-  |message|string|
+  `sender: string`
+  `message: string`
   
     * sender  
     The name of the player who sent the message.
