@@ -40,3 +40,9 @@ To dump blocks and items i just changed 'Packet' to 'Tile' or 'Item'.
 ```bash
 nm -DC libminecraftpe.so | grep "Packet::" > packetdump.txt
 ```
+
+You can also generate a pack dump with *only* the packet names by using
+
+```bash
+nm -DC libminecraftpe.so | grep "~*Packet()" > packetdump.txt
+```
