@@ -24,7 +24,8 @@ A compiled list of all things that arent currently implemented in PocketMine, bu
  * /locate \<feature: string>
  * /playsound \<sound: string> \<player: target> [position: x y z] [volume: float] [pitch: float] [minimumVolume: float]
  * /stopsound \<sound: string>
- * /setblock
+ * /summon \<entityType: string> [spawnPos: x y z]
+ * /setblock \<position: x y z> \<tileName: string> [tileData: int] [oldBlockHandling: string]
  * /spreadplayers
  * /testfor \<victim: target>
  * /testforblock \<position: x y z> \<tileName: string> [dataValue: int]
