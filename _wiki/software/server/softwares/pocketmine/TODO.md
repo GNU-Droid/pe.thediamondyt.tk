@@ -67,6 +67,7 @@ A compiled list of all things that arent currently implemented in PocketMine, bu
    * Game Type: string
  * Rewrite translation system to use sprintf and support for vanilla language files ([#207 (comment)](https://github.com/pmmp/PocketMine-MP/issues/207#issuecomment-280027871))
  * Check if player is swimming and apply exhaustion ([Player.php#L1597](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/Player.php#L1597))
+ * Add eating sounds ([Player.php#L2271](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/Player.php#L2271))
  
 #### Work in Progress
  * Weather ([PR #460](https://github.com/pmmp/PocketMine-MP/pull/460) and (personally recommended first PR) [#335](https://github.com/pmmp/PocketMine-MP/pull/335))
