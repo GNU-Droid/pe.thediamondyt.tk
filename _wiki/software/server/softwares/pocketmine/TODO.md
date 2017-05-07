@@ -40,6 +40,7 @@ A compiled list of all things that arent currently implemented in PocketMine, bu
  * Redstone is not implemented
  * Double plants arent implemented ([#882](https://github.com/pmmp/PocketMine-MP/issues/882))
  * Implement block bounding boxes and collision boxes ([#169](https://github.com/pmmp/PocketMine-MP/issues/169))
+ * Falling blocks don't get destroyed by grass ([#897](https://github.com/pmmp/PocketMine-MP/issues/897))
  
 #### World
  * Add support for limited worlds ([LevelDB.php#L151](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/level/format/io/leveldb/LevelDB.php#L151))
