@@ -12,9 +12,9 @@ MCPE versions before i think 0.14 didnt have a different version for every beta.
 
 Click the MCPE version to get full information.
 
-
-
-|Human Readable|MCPE Versiond|Protocol Version|
+{:.table}
+{:.table-bordered}
+|Human Readable|MCPE Version|Protocol Version|
 |--------------|------------|----------------|
 |v1.1.0.8|1.1.0.8|111|
 |v1.1.0.5|1.1.0.5|110|
