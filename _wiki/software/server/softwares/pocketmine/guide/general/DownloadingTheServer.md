@@ -3,7 +3,7 @@ title: PocketMine-MP Guide - Downloading the server
 permalink: /wiki/software/pocketmine/guides/downloading-the-server/
 ---
 ## Downloading the server
-
+---
 ### Installing PHP
 To run PocketMine-MP, you are required to have PHP 7.0 >= installed with the neccersary extensions. If not, you can compile it yourself or download a pre-compiled binary.
 
@@ -32,7 +32,5 @@ You can compile directly from source code in the [Github repository](https://git
 6. Start the server again like in step 3.
 7. Type 'makeserver' in console then you're done!
 
-##### Installing from Poggit
-Poggit hosts the latest bleeding-edge build of PocketMine-MP. Note that these builds **are not stable**.
-
-[Link](https://poggit.pmmp.io/ci/pmmp/PocketMine-MP/~?branch=master)
+**Installing from Poggit**
+[Poggit](https://poggit.pmmp.io/) is the official plugin repository for PocketMine-MP. It also hosts bleeding-edge builds of [the server phar](https://poggit.pmmp.io/ci/pmmp/PocketMine-MP/~?branch=master).
