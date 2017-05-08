@@ -13,11 +13,11 @@ permalink: /wiki/software/pocketmine/
 |Maintainer|Dylan K. Taylor|
 
 *You can view a TODO list [here](todo/).*
-
-PocketMine-MP was originally created to be a proof of concept. 
-
+---
+PocketMine-MP was originally created to be a proof of concept.  
+  
 #### PocketMine Realms
-PocketMine Realms was a free service created by shoghicp (Shoghi Cervantes) created on June 19th 2013.
+PocketMine Realms was a free service created by shoghicp (Shoghi Cervantes) on June 19th 2013.
 It enabled the connecting to online servers through the MCPE 0.7.0 realms interface. 
 
 Around August 31th 2013, PocketMine Realms was shut down due to a petition by Mojang. In return, they would add external server support MCPE.
