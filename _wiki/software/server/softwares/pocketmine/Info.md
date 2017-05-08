@@ -33,6 +33,7 @@ And you can view a snapshot of the site after the service had closed [here](http
   * [Installing plugins](guides/installing-plugins/)
 * Plugin Development
   * [Introduction](guides/plugin-dev/)
+
 <br><br>
 #### Contact
 Contact the PocketMine team:
