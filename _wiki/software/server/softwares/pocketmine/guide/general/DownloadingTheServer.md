@@ -8,12 +8,12 @@ permalink: /wiki/software/pocketmine/guides/downloading-the-server/
 To run PocketMine-MP, you are required to have PHP 7.0 >= installed with the neccersary extensions. If not, you can compile it yourself or download a pre-compiled binary.
 
 * Linux
-  * [Script](https://github.com/pmmp/php-build-scripts/tree/master/compile.sh?raw=true)  
+  * [Script](https://raw.githubusercontent.com/pmmp/php-build-scripts/master/compile.sh)  
   * [Binary (32 bit)](https://bintray.com/pocketmine/PocketMine/download_file?file_path=PHP_7.0.6_x86_Linux.tar.gz)  
   * [Binary (64 bit)](https://bintray.com/pocketmine/PocketMine/download_file?file_path=PHP_7.0.6_x86-64_Linux.tar.gz)  
   
 * Windows
-  * [Powershell Script](https://github.com/pmmp/php-build-scripts/blob/master/windows-binaries.ps1?raw=true)  
+  * [Powershell Script](https://raw.githubusercontent.com/pmmp/php-build-scripts/master/windows-binaries.ps1)  
   * [Binary (32 bit)](https://bintray.com/pocketmine/PocketMine/download_file?file_path=PHP_7.0.3_x86_Windows.tar.gz)  
   * [Binary (64 bit)](https://bintray.com/pocketmine/PocketMine/download_file?file_path=PHP_7.0.3_x64_Windows.tar.gz)  
   
