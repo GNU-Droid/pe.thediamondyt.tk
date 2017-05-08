@@ -34,7 +34,7 @@ And you can view a snapshot of the site after the service had closed [here](http
 * Plugin Development
   * [Introduction](guides/plugin-dev/)
 
-<br>
+
 #### Contact
 Contact the PocketMine team:
 
