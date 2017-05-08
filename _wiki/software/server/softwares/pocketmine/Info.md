@@ -13,8 +13,10 @@ permalink: /wiki/software/pocketmine/
 |Maintainer|Dylan K. Taylor|
 
 *You can view a TODO list [here](todo/).*
+
 ---
-PocketMine-MP was originally created to be a proof of concept.  
+
+PocketMine-MP is a server software for Minecraft PE and was originally created to be a proof of concept.  
   
 #### PocketMine Realms
 PocketMine Realms was a free service created by shoghicp (Shoghi Cervantes) on June 19th 2013.
@@ -24,3 +26,16 @@ Around August 31th 2013, PocketMine Realms was shut down due to a petition by Mo
 
 You can view a snapshot of the PocketMine Realms site [here](http://web.archive.org/web/20130811232607/http://realms.pocketmine.net/).  
 And you can view a snapshot of the site after the service had closed [here](http://web.archive.org/web/20131001030747/realms.pocketmine.net).
+  
+#### Guides
+* General
+  * [Downloading the server](downloading-the-server/)
+  * [Installing plugins](installing-plugins/)
+* Plugin Development
+  * [Introduction](plugin-dev/)
+  
+#### Contact
+Contact the PocketMine team:
+
+* [PocketMine Forums](http://forums.pmmp.io)  
+* [#pmmp](http://webchat.freenode.net/?channels=pmmp&uio=d4) on freenode

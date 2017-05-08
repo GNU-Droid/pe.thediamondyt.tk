@@ -14,6 +14,7 @@ Click the MCPE version to get full information.
 
 {:.table}
 {:.table-bordered}
+
 |Human Readable|MCPE Version|Protocol Version|
 |--------------|------------|----------------|
 |v1.1.0.8|1.1.0.8|111|
