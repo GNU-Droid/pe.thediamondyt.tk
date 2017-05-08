@@ -17,7 +17,7 @@ permalink: /wiki/software/pocketmine/
 ---
 
 PocketMine-MP is a server software for Minecraft PE and was originally created to be a proof of concept.  
-  
+<br>
 #### PocketMine Realms
 PocketMine Realms was a free service created by shoghicp (Shoghi Cervantes) on June 19th 2013.
 It enabled the connecting to online servers through the MCPE 0.7.0 realms interface. 
@@ -29,11 +29,11 @@ And you can view a snapshot of the site after the service had closed [here](http
 <br><br>
 #### Guides
 * General
-  * [Downloading the server](downloading-the-server/)
-  * [Installing plugins](installing-plugins/)
+  * [Downloading the server](guides/downloading-the-server/)
+  * [Installing plugins](guides/installing-plugins/)
 * Plugin Development
-  * [Introduction](plugin-dev/)
-  
+  * [Introduction](guides/plugin-dev/)
+<br><br>
 #### Contact
 Contact the PocketMine team:
 
