@@ -13,30 +13,6 @@
   word-wrap: normal;
 }
 
- table {
-    border-collapse: collapse !important;
-  }
-  table td,
-  table th {
-    background-color: #fff !important;
-  }
-  table th,
-  table td {
-    border: 1px solid #ddd !important;
-  }
-  table-bordered {
-  border: 1px solid #ecf0f1;
+table table-bordered {
+  inhreit;
 }
-table > thead > tr > th,
-table > tbody > tr > th,
-table > tfoot > tr > th,
-table > thead > tr > td,
-table  > tbody > tr > td,
-table > tfoot > tr > td {
-  border: 1px solid #ecf0f1;
-}
-table > thead > tr > th,
-table > thead > tr > td {
-  border-bottom-width: 2px;
-}
-
