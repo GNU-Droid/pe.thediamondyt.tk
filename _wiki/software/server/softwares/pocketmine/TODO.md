@@ -75,5 +75,5 @@ A compiled list of all things that arent currently implemented in PocketMine, bu
  * Add events for player data saving ([Player.php#L3476](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/Player.php#L3476))
  
 #### Work in Progress
- * Weather ([PR #460](https://github.com/pmmp/PocketMine-MP/pull/460) and (personally recommended first PR) [#335](https://github.com/pmmp/PocketMine-MP/pull/335))
+ * Weather ([PR #460](https://github.com/pmmp/PocketMine-MP/pull/460))
  

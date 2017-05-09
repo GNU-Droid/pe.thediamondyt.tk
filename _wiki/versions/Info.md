@@ -34,7 +34,7 @@ Click the version of your choice to view method dumps from libminecraftpe.so
 |-------|
 |[v0.2.1 alpha build 2](demo/0.2.1.2)|
 
-
+<br>
 ### How to create a dump
 I simply went in my Android Linux terminal and typed the following.
 
