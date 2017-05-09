@@ -19,6 +19,7 @@ Click the version of your choice to view method dumps from libminecraftpe.so
 |[v0.1.1 alpha](0.1.1/)|
 
 ### Realms alpha
+
 {:.table}
 {:.table-bordered}
 |Version|
@@ -26,6 +27,7 @@ Click the version of your choice to view method dumps from libminecraftpe.so
 |[Realms alpha build 4](0.15.0.a4/)|
   
 ### Demo
+
 {:.table}
 {:.table-bordered}
 |Version|
