@@ -12,10 +12,7 @@ collections:
   wiki:
     output: true
     permalink: /wiki/:path/
-  mobileconfig:
-    output: true
-    permalink: /wiki/software/pocketmine/realms.mobileconfig
-
+ 
 defaults:
   - scope:
       path: ""
@@ -23,9 +20,6 @@ defaults:
   - scope:
       path: ""
       type: wiki
-  - scope:
-      path: "/wiki/software/server/pocketmine/realms.mobileconfig"
-      type: mobileconfig
     values:
       layout: wiki
       secondarytitle: MCPE Wiki
