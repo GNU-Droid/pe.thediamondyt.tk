@@ -10,4 +10,4 @@ permalink: /wiki/software/server/
 |----|------|
 |[PocketMine-MP](../pocketmine/)|In Development|
 |MiNET|In Development|
-|[Voxelwind](../voxelwind/)|Inactive|BONKERS
+|[Voxelwind](../voxelwind/)|Inactive|

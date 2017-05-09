@@ -8,5 +8,7 @@ permalink: /wiki/software/voxelwind/
 {:.table-bordered}
 |Language|Java|
 |Source|https://github.com/voxelwind/voxelwind|
-|Creator|Andrew (Tux)|
 |Status|Inactive|
+|Creator|Andrew (Tux)|
+
+Voxelwind is a server software for Minecraft PE. 

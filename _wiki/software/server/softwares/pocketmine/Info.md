@@ -7,17 +7,18 @@ permalink: /wiki/software/pocketmine/
 {:.table}
 {:.table-bordered}
 |Language|PHP|
-|Source|https://github.com/pmmp/PocketMine-MP|
-|Website|http://pmmp.io|
-|Founder|Shoghi Cervantes|
+|Source|[https://github.com/pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)|
+|Website|[http://pmmp.io](http://pmmp.io)|
+|Status|In Development|
+|Creator|Shoghi Cervantes|
 |Maintainer|Dylan K. Taylor|
 
 *You can view a TODO list [here](todo/).*
 
+PocketMine-MP is a server software for Minecraft PE and was originally created to be a proof of concept.  
+
 ---
 
-PocketMine-MP is a server software for Minecraft PE and was originally created to be a proof of concept.  
-<br>
 #### PocketMine Realms
 PocketMine Realms was a free service created by shoghicp (Shoghi Cervantes) on June 19th 2013.
 It enabled the connecting to online servers through the MCPE 0.7.0 realms interface. 
