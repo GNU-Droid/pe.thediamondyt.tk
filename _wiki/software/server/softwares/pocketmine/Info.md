@@ -26,7 +26,7 @@ It enabled the connecting to online servers through the MCPE 0.7.0 realms interf
 Around August 31th 2013, PocketMine Realms was shut down due to a petition by Mojang. In return, they would add external server support MCPE.
 
 You can view a snapshot of the PocketMine Realms site [here](http://web.archive.org/web/20130811232607/http://realms.pocketmine.net/).  
-And you can view a snapshot of the site after the service had closed [here](http://web.archive.org/web/20131001030747/realms.pocketmine.net).
+And you can view a snapshot of the site after the service had closed [here](http://web.archive.org/web/20131001030747/realms.pocketmine.net).  
 I have also de-signed the .mobileconfig that PM Realms used for iOS [here](realms.mobileconfig).
 <br><br>
 #### Guides
