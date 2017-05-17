@@ -10,7 +10,7 @@ permalink: /wiki/software/pocketmine/
 |Source|[https://github.com/pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)|
 |Website|[http://pmmp.io](http://pmmp.io)|
 |Status|In Development|
-|Creator|Shoghi Cervantes|
+|Founder|Shoghi Cervantes|
 |Maintainer|Dylan K. Taylor|
 
 *You can view a TODO list [here](todo/).*
@@ -27,7 +27,7 @@ Around August 31th 2013, PocketMine Realms was shut down due to a petition by Mo
 
 You can view a snapshot of the PocketMine Realms site [here](http://web.archive.org/web/20130811232607/http://realms.pocketmine.net/).  
 And you can view a snapshot of the site after the service had closed [here](http://web.archive.org/web/20131001030747/realms.pocketmine.net).  
-I have also de-signed the .mobileconfig that PM Realms used for iOS [here](realms.mobileconfig).
+I have also de-signed the .mobileconfig that PM Realms used for iOS [here](http://dl.thediamondyt.tk/realms.mobileconfig).
 <br><br>
 #### Guides
 * General
