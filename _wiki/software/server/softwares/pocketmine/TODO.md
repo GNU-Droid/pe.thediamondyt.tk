@@ -42,7 +42,7 @@ A compiled list of all things that arent currently implemented in PocketMine, bu
  * Implement block bounding boxes and collision boxes ([#169](https://github.com/pmmp/PocketMine-MP/issues/169))
  * Falling blocks don't get destroyed by grass ([#897](https://github.com/pmmp/PocketMine-MP/issues/897))
  * Add nether portals ([FlintSteel.php#L40](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/item/FlintSteel.php#L40))
- * Farmland doesnt getturned back to dirt when jumped on
+ * Farmland doesnt get turned back to dirt when jumped on
  
 #### World
  * Add support for limited worlds ([LevelDB.php#L151](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/level/format/io/leveldb/LevelDB.php#L151))
@@ -65,6 +65,7 @@ A compiled list of all things that arent currently implemented in PocketMine, bu
  
 #### Other
  * Write documentation for all functions
+ * Typehint more functions
  * Add missing fields to RakNet broadcast name 
    * Server ID: long
    * World Name: string
@@ -72,7 +73,6 @@ A compiled list of all things that arent currently implemented in PocketMine, bu
  * Rewrite translation system to use sprintf and support for vanilla language files ([#207 (comment)](https://github.com/pmmp/PocketMine-MP/issues/207#issuecomment-280027871))
  * Check if player is swimming and apply exhaustion ([Player.php#L1597](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/Player.php#L1597))
  * Add eating sounds ([Player.php#L2271](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/Player.php#L2271))
- * Add events for player data saving ([Player.php#L3476](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/Player.php#L3476))
  
 #### Work in Progress
  * Weather ([PR #460](https://github.com/pmmp/PocketMine-MP/pull/460))

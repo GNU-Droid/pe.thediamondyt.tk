@@ -31,6 +31,9 @@ You can compile directly from source code in the [Github repository](https://git
 5. Install the latest [DevTools](https://github.com/pmmp/PocketMine-DevTools) and place it in the plugins directory.
 6. Start the server again like in step 3.
 7. Type 'makeserver' in console then you're done!
-
+  
 **Installing from Poggit**  
 [Poggit](https://poggit.pmmp.io/) is the official plugin repository for PocketMine-MP. It also hosts bleeding-edge builds of [the server phar](https://poggit.pmmp.io/ci/pmmp/PocketMine-MP/~?branch=master).
+  
+**Windows installer**  
+[TheDeibo](https://forums.pmmp.io/members/thedeibo.11/) made a simple PocketMine installer for Windows to ease the setup of the server. Here is [the forum thread](https://forums.pmmp.io/threads/pocketmine-mp-1-6-2-installer-windows.2022/) which contains download links and instructions.
