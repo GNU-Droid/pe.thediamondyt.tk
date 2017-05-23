@@ -16,10 +16,10 @@ The protocol number was not bumped in this version and no new packets were added
 ### Changes
 There were a few minor changes to packets in this version.
 
-* Add Item Entity
+* Add Item Entity  
    Encode entity metadata [link](https://github.com/pmmp/PocketMine-MP/blob/6c5ca9b2562d269f297d5f3e512e4ce78b2d8a6c/src/pocketmine/network/mcpe/protocol/AddItemEntityPacket.php#L53)
    
-* Move Entity
+* Move Entity  
   Encode yaw after head yaw [link](https://github.com/pmmp/PocketMine-MP/blob/6c5ca9b2562d269f297d5f3e512e4ce78b2d8a6c/src/pocketmine/network/mcpe/protocol/MoveEntityPacket.php#L57)  
   Encode unknown byte [link](https://github.com/pmmp/PocketMine-MP/blob/6c5ca9b2562d269f297d5f3e512e4ce78b2d8a6c/src/pocketmine/network/mcpe/protocol/MoveEntityPacket.php#L59)  
   

@@ -15,7 +15,8 @@ Welcome to my wiki! Here i will add all the techy things i find out about MCPE.
 
 ##### Server Stuff
 [MCPE Protocol](protocol/)  
-[Server Softwares](software/server/)  
+
+[Softwares](software/)  
 
 ##### General MCPE Stuff
 [MCPE Update Info & Dumps](versions/)
