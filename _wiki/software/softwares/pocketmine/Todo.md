@@ -42,7 +42,6 @@ A compiled list of all things that arent currently implemented in PocketMine, bu
  * Redstone is not implemented
  * Double plants arent implemented ([#882](https://github.com/pmmp/PocketMine-MP/issues/882))
  * Implement block bounding boxes and collision boxes ([#169](https://github.com/pmmp/PocketMine-MP/issues/169))
- * Falling blocks don't get destroyed by grass ([#897](https://github.com/pmmp/PocketMine-MP/issues/897))
  * Add nether portals ([FlintSteel.php#L40](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/item/FlintSteel.php#L40))
  * Farmland doesnt get turned back to dirt when jumped on
  * Dead bush can be placed on any block.
