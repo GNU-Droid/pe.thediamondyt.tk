@@ -36,6 +36,8 @@ A compiled list of all things that arent currently implemented in PocketMine, bu
    * \<entity: string> \<target: target> \<slotType: string> \<slotId: int> \<itemName: string> [amount: int] [data: int]
  * /xp \<amount: int> \<target: target>
  
+---
+ 
 #### Blocks
  * Redstone is not implemented
  * Double plants arent implemented ([#882](https://github.com/pmmp/PocketMine-MP/issues/882))
@@ -43,6 +45,9 @@ A compiled list of all things that arent currently implemented in PocketMine, bu
  * Falling blocks don't get destroyed by grass ([#897](https://github.com/pmmp/PocketMine-MP/issues/897))
  * Add nether portals ([FlintSteel.php#L40](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/item/FlintSteel.php#L40))
  * Farmland doesnt get turned back to dirt when jumped on
+ * Dead bush can be placed on any block.
+
+---
  
 #### World
  * Add support for limited worlds ([LevelDB.php#L151](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/level/format/io/leveldb/LevelDB.php#L151))
@@ -53,11 +58,15 @@ A compiled list of all things that arent currently implemented in PocketMine, bu
  * Implement `LastUpdate` and `InheritedTime` tags in all level providers ([Anvil.php#L47#L48](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/level/format/io/region/Anvil.php#L47#L48)), ([McRegion.php#L61#L62](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/level/format/io/region/McRegion.php#L61#L62))
  * Make light updates asynchronous.
  
+---
+  
 #### Entities
  * Add the ability to sheer sheep ([Sheers.php#L49](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/item/Shears.php#L49))
  * Add lingering potions
  * Add lightning checks to EntityDamageEvent ([EntityDamageEvent.php#L152](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/event/entity/EntityDamageEvent.php#L152))
  * Add power and flame enchantment effects to bows.
+ 
+---
  
 #### Bugs
  * Players in spectater mode cannot shoot bows ([#852](https://github.com/pmmp/PocketMine-MP/issues/852))
@@ -66,6 +75,8 @@ A compiled list of all things that arent currently implemented in PocketMine, bu
  * Torches cannot be placed on top of some blocks ([#458](https://github.com/pmmp/PocketMine-MP/issues/458))
  * Players can fall up to 5 blocks without taking fall damage ([#891](https://github.com/pmmp/PocketMine-MP/issues/891))
  * Effects can be given to non-living entity classes ([#886](https://github.com/pmmp/PocketMine-MP/issues/886))
+ 
+---
  
 #### Other
  * Write documentation for all functions
@@ -78,6 +89,8 @@ A compiled list of all things that arent currently implemented in PocketMine, bu
  * Check if player is swimming and apply exhaustion ([Player.php#L1597](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/Player.php#L1597))
  * Add eating sounds ([Player.php#L2271](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/Player.php#L2271))
  * Move inventory data to JSON ([InventoryType.php#L64](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/inventory/InventoryType.php#L64))
+ 
+---
  
 #### Work in Progress
  * Weather ([PR #460](https://github.com/pmmp/PocketMine-MP/pull/460))
