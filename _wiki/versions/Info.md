@@ -16,6 +16,7 @@ Click the version of your choice to view method dumps from libminecraftpe.so
 |[v0.7.4 alpha](0.7.4/)|
 |[v0.2.0 alpha](0.2.0/)|
 |[v0.1.3 alpha](0.1.3/)|
+|[v0.1.2 alpha](0.1.2/)|
 |[v0.1.1 alpha](0.1.1/)|
 
 ### Realms alpha
