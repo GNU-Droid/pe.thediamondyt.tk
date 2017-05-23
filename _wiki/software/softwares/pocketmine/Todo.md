@@ -46,6 +46,7 @@ A compiled list of all things that arent currently implemented in PocketMine, bu
  * Add nether portals ([FlintSteel.php#L40](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/item/FlintSteel.php#L40))
  * Farmland doesnt get turned back to dirt when jumped on
  * Dead bush can be placed on any block.
+ * Add enchantment table lock
 
 ---
  
@@ -65,6 +66,9 @@ A compiled list of all things that arent currently implemented in PocketMine, bu
  * Add lingering potions
  * Add lightning checks to EntityDamageEvent ([EntityDamageEvent.php#L152](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/event/entity/EntityDamageEvent.php#L152))
  * Add power and flame enchantment effects to bows.
+ * Implement inverse effects for undead mobs ([Effect.php#L313](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/entity/Effect.php#L313))
+ * Add effect particles for witch spell ([#L393](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/entity/Effect.php#L393))
+ * Vehicle collision events, when they are implemented ;) ([Entity.php#L1608](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/entity/Entity.php#L1608))
  
 ---
  
@@ -90,6 +94,7 @@ A compiled list of all things that arent currently implemented in PocketMine, bu
  * Check if player is swimming and apply exhaustion ([Player.php#L1597](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/Player.php#L1597))
  * Add eating sounds ([Player.php#L2271](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/Player.php#L2271))
  * Move inventory data to JSON ([InventoryType.php#L64](https://github.com/pmmp/PocketMine-MP/blob/api3/blocks/src/pocketmine/inventory/InventoryType.php#L64))
+ * Add JWT encryption for Xbox Live login
  
 ---
  
